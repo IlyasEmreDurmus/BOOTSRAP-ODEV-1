@@ -1,0 +1,83 @@
+
+
+
+.h1{
+    text-align: center;
+    color:white;
+    background-color:black;
+    padding: 20px;;
+    margin: 0;
+    width: 100%;
+    width: auto;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.h2{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.basliklar{
+    text-align: center;
+    color: blue;
+}
+.altbasliklar{
+    text-align: center;
+    color: rgb(247, 184, 10);
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.linkler{
+    text-align: left;
+    font-size: 20px;
+    margin-top: 0;
+    background-color:darkgrey;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    font-style:normal;
+    font-family: sans-serif;
+    color: black;
+    float: left;
+    width: 100%; 
+    color: rgb(2, 11, 19);
+    
+    
+    
+}
+a:link{
+    color: white;
+}
+.p{
+    text-align: left;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: oblique;
+    margin-right: 16%;
+    margin-left: 16%;
+}
+.text{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    text-decoration: underline;
+}
+.list{
+    font-size:  25px; 
+    color: black;
+    text-align: center;
+    width: 30%;
+    margin-left: 33%;
+    margin-right: 67%;
+    font-style: italic;
+    
+}
+
+.margincard{
+    margin-top: 30px;
+}
+
